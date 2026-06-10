@@ -63,6 +63,15 @@ All content lives in `src/data/resume.ts`. Update your:
 npx vercel
 ```
 
+#### Deploy to Vercel:
+
+- Go to https://vercel.com and sign up with your GitHub account (free)
+- Click "Add New Project"
+- Import your jlunaoax/portfolio repository
+- Framework will auto-detect as Next.js — just click "Deploy"
+- Done! You'll get a live URL in about 30 seconds
+
+
 ### Netlify
 Drag & drop the `out/` folder after running `npm run build`.
 
